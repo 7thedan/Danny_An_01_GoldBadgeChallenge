@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RepostioryPattern_Console/1.0.0": {
+        "dependencies": {
+          "RepositoryPattern_Repository": "1.0.0"
+        },
+        "runtime": {
+          "RepostioryPattern_Console.dll": {}
+        }
+      },
+      "RepositoryPattern_Repository/1.0.0": {
+        "runtime": {
+          "RepositoryPattern_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepostioryPattern_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryPattern_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

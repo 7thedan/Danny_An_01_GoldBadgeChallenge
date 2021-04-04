@@ -1,0 +1,6 @@
+C:\Users\danny\source\repos\Repository\RepositoryPattern_Repository\bin\Debug\RepositoryPattern_Repository.dll
+C:\Users\danny\source\repos\Repository\RepositoryPattern_Repository\bin\Debug\RepositoryPattern_Repository.pdb
+C:\Users\danny\source\repos\Repository\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\Repository\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Repository\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.dll
+C:\Users\danny\source\repos\Repository\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.pdb

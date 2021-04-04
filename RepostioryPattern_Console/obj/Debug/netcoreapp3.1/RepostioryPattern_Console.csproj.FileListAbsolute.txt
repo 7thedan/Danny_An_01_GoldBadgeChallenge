@@ -1,0 +1,16 @@
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepostioryPattern_Console.exe
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepostioryPattern_Console.deps.json
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepostioryPattern_Console.runtimeconfig.json
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepostioryPattern_Console.runtimeconfig.dev.json
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepostioryPattern_Console.dll
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepostioryPattern_Console.pdb
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.AssemblyInfo.cs
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.dll
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.pdb
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.genruntimeconfig.cache
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepositoryPattern_Repository.dll
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\bin\Debug\netcoreapp3.1\RepositoryPattern_Repository.pdb
+C:\Users\danny\source\repos\Repository\RepostioryPattern_Console\obj\Debug\netcoreapp3.1\RepostioryPattern_Console.csproj.CopyComplete
